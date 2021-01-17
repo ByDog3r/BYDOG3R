@@ -35,10 +35,10 @@
 </p><br>
 
 <p align="left">
-<a href="https://github.com/ByDog3r/FAQUE"><img title="FAQUE - Email-Spoofing and SMS" src="https://github-readme-stats.vercel.app/api/pin/?username=ByDog3r&repo=FAQUE&theme=vision-friendly-dark"></a> 
-<a href="https://github.com/ByDog3r/azathot"><img title="Azathot - Carding ToolKit" src="https://github-readme-stats.vercel.app/api/pin/?username=ByDog3r&repo=azathot&theme=vision-friendly-dark"></a> 
-<a href="https://github.com/ByDog3r/GvngSearch"><img title="GvngSearch - OSINT TOOl" src="https://github-readme-stats.vercel.app/api/pin/?username=ByDog3r&repo=GvngSearch&theme=vision-friendly-dark"></a> 
-<a href="https://github.com/ByDog3r/auto-spammer"><img title="autospammer - Make Spam" src="https://github-readme-stats.vercel.app/api/pin/?username=ByDog3r&repo=auto-spammer&theme=vision-friendly-dark"></a>
-<a href="https://github.com/ByDog3r/WinDucky"><img title="WinDucky - RUBBER DUCKY" src="https://github-readme-stats.vercel.app/api/pin/?username=ByDog3r&repo=winducky&theme=vision-friendly-dark"></a>
-<a href="https://github.com/ByDog3r/h4ck-in-one"><img title="HACK-IN-ONE - TOOL KIT" src="https://github-readme-stats.vercel.app/api/pin/?username=ByDog3r&repo=h4ck-in-one&theme=vision-friendly-dark"></a>   
+<a href="https://github.com/ByDog3r/h4ck-in-one"><img title="HACKING TOOLKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=ByDog3r&repo=h4ck-in-one&theme=vision-friendly-dark"></a>
+<a href="https://github.com/ByDog3r/azathot"><img title="CARDING TOOLKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=ByDog3r&repo=azathot&theme=vision-friendly-dark"></a>
+<a href="https://github.com/ByDog3r/WinToolKit"><img title="WINDOWS TOOLKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=ByDog3r&repo=wintoolkit&theme=vision-friendly-dark"></a>  
+<a href="https://github.com/ByDog3r/GvngSearch"><img title="OSINT TOOlKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=ByDog3r&repo=GvngSearch&theme=vision-friendly-dark"></a> 
+<a href="https://github.com/ByDog3r/FAQUE"><img title="EMAIL SPOOFING AND SMS" src="https://github-readme-stats.vercel.app/api/pin/?username=ByDog3r&repo=FAQUE&theme=vision-friendly-dark"></a>
+<a href="https://github.com/ByDog3r/auto-spammer"><img title="MAKE SPAM" src="https://github-readme-stats.vercel.app/api/pin/?username=ByDog3r&repo=auto-spammer&theme=vision-friendly-dark"></a>
 </p>
