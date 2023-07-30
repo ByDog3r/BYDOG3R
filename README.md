@@ -26,15 +26,15 @@
 <br>
 
 
-| [ 明絵 My Scripts ](https://github.com/ByDog3r/ByDog3r/wiki) | [ 明宏 My Rice 🍚](https://github.com/ByDog3r/dotfiles) |
+| [ 明絵 My Scripts ](https://github.com/ByDog3r/) | [ 明宏 My Rice 🍚](https://github.com/ByDog3r/) |
 | --- | -- |
-|![Scripts](https://user-images.githubusercontent.com/66902449/172294261-0ad332e1-e67f-48fa-9f5c-e2fbeec8587a.png)| ![Rice](https://github.com/ByDog3r/ByDog3r/assets/66902449/ff9dee09-1dc9-4700-ac9b-d3d56f7a2d60)|
+|![Scripts](https://user-images.githubusercontent.com/66902449/172294261-0ad332e1-e67f-48fa-9f5c-e2fbeec8587a.png)| ![Rice](https://github.com/ByDog3r/ByDog3r/assets/66902449/728167f7-f9bf-4497-9368-d89156699aa1)|
     
 <p align="center"><b><samp> - 
  <a href="mailto:ByDoger@protonmail.com">🌙 email </a>
  ~
- <a href="https://t.me/ByLeonel"> ✨ telegram </a>
+ <a href="https://t.me/ByDog3r"> ✨ telegram </a>
  ~
- <a href="https://discord.com/users/ByLeonel#6666"> ☀️ discord </a> 
+ <a href="https://discord.com/users/ByLeonel"> ☀️ discord </a> 
  - </samp></b></p>
  </details>
